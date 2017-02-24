@@ -1,7 +1,7 @@
 @ECHO off
 
 set javapath=C:\Users\Public\java_install
-set sourcepath=\\vmsrv07\IEMA\PUBLICO\Java
+set sourcepath=PATH_DO_MSI
 set cfgpath=%PROGRAMDATA%\Oracle\Java
 
 ECHO ==================================================
